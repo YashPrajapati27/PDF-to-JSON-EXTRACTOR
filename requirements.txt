@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+pdfplumber
+Pillow
+pytesseract   # optional (only if you want OCR)
+opencv-python-headless  # optional (only if you want better chart detection)

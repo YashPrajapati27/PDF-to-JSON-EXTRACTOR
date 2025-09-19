@@ -1,5 +1,7 @@
 # 📄 PDF to Structured JSON Extractor
 
+LIVE DEMO :- https://pdf-to-json-extractor-fosk77xxjhptajzgegdczg.streamlit.app/
+
 This project extracts **headings, paragraphs, tables, and images** from PDF files and converts them into a **clean, hierarchical JSON format**.  
 It includes an interactive **Streamlit web interface** that allows users to upload PDFs, preview extracted content, and download the structured JSON output.
 
@@ -103,6 +105,7 @@ Clean and internship-ready project, easy to present and explain.
 📜 License
 
 This project is free to use and modify for educational and internship purposes.
+
 
 
 
